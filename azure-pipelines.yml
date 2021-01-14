@@ -2,7 +2,7 @@ trigger:
 - '*'
 
 pool:
-  vmImage: 'vs2017-win2016's
+  vmImage: 'vs2017-win2016'
   demands:
   - npm
 
